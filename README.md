@@ -4,7 +4,7 @@
 <p align="center">
   <a href="mailto:suvodippatra121@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/suvodip-patra03"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/subha-idk"><img src="https://img.shields.io/github/followers/suvodippatra?style=for-the-badge&logo=github&label=Follow&color=black"/></a>
+  <a href="https://github.com/subha-idk"><img src="https://img.shields.io/github/followers/subha-idk?style=for-the-badge&logo=github&label=Follow&color=black"/></a>
   <a href="https://suvodipdev.free.nf"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=about-dot-me&logoColor=white"/></a>
 </p>
 
@@ -59,8 +59,8 @@ Dialogflow, FastAPI, MySQL, Telegram Bot
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suvodippatra&show_icons=true&theme=github_dark" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=suvodippatra&theme=dark&date_format=M%20j%5B%2C%20Y%5D" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=subha-idk&show_icons=true&theme=github_dark" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=subha-idk&theme=dark&date_format=M%20j%5B%2C%20Y%5D" width="49%"/>
 </p>
 
 ---
