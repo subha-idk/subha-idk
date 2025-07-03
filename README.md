@@ -3,9 +3,9 @@
 
 <p align="center">
   <a href="mailto:suvodippatra121@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/suvodip-patra"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/suvodippatra"><img src="https://img.shields.io/github/followers/suvodippatra?style=for-the-badge&logo=github&label=Follow&color=black"/></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=about-dot-me&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/suvodip-patra03"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/subha-idk"><img src="https://img.shields.io/github/followers/suvodippatra?style=for-the-badge&logo=github&label=Follow&color=black"/></a>
+  <a href="https://suvodipdev.free.nf"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=about-dot-me&logoColor=white"/></a>
 </p>
 
 ---
@@ -74,7 +74,7 @@ Dialogflow, FastAPI, MySQL, Telegram Bot
 
 ### 📫 Let's Connect!
 - 📧 Email: suvodippatra121@gmail.com
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+- 🌐 Portfolio: [your-portfolio-link.com](https://suvodipdev.free.nf)
 - 🐦 Twitter (if you use one): [@yourhandle](https://twitter.com/yourhandle)
 
 ---
