@@ -74,7 +74,7 @@ Dialogflow, FastAPI, MySQL, Telegram Bot
 
 ### 📫 Let's Connect!
 - 📧 Email: suvodippatra121@gmail.com
-- 🌐 Portfolio: [your-portfolio-link.com](https://suvodipdev.free.nf)
+- 🌐 Portfolio: [https://suvodipdev.free.nf](https://suvodipdev.free.nf)
 - 🐦 Twitter (if you use one): [@yourhandle](https://twitter.com/yourhandle)
 
 ---
